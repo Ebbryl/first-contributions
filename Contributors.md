@@ -1048,6 +1048,7 @@ Nishtha3512
 - [Colin Anderson](https://github.com/40216006)
 - [Shirish Nigam](https://github.com/techlab23)
 - [Ebbryl](https://github.com/Ebbryl)
+- Ebbryl Nur R
 - Will K
 - Aaron Ehrensberger
 - [Sreedev S](https://github.com/finetard)
